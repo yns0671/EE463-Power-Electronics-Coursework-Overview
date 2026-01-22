@@ -27,5 +27,7 @@ The assignments focus on analytical modeling, simulation-based analysis, and des
 - MATLAB / Simulink (Simscape Power Systems)  
 - Analytical calculations and waveform analysis  
 
-## Note
-Materials are shared for learning and portfolio purposes only and are not intended for direct reuse in coursework.
+### Availability Note
+Detailed homework solutions and reports are not shared publicly to comply with academic integrity policies.  
+This README provides a high-level overview of the covered topics and scope of work.
+
