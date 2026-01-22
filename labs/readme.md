@@ -25,5 +25,7 @@ The experiments focus on hands-on investigation of power electronic circuits, de
 - Leakage and mutual inductance analysis  
 - Multi-output flyback converter operation and regulation behavior  
 
-## Note
-Materials are shared for learning and portfolio purposes only and are not intended for direct reuse in coursework.
+## Availability Note
+Laboratory reports, raw measurements, and experimental data are not included in the public repository to comply with course and laboratory policies.  
+This folder serves as a summary of the experimental scope and technical experience.
+
