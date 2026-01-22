@@ -7,14 +7,20 @@ This folder contains the final hardware project of **EE463 – Power Electronics
 
 - Design of a high-power **DC motor drive** for a 5.5 HP separately excited DC machine  
 - AC–DC–DC power conversion with controllable output voltage (0–180 V DC)  
-- Emphasis on topology selection, component sizing, thermal design, and hardware reliability  
+- Emphasis on topology selection, component sizing, thermal design, and hardware reliability
+
+## Project Team
+
+- **[Yunus Tosun](https://github.com/yunustosun7106)**  
+- **[Alihan Kale](https://github.com/alihankale)**  
+- **[Hüseyin Oğuz](https://github.com/Huseyinogu)**
 
 ## Implemented Topology
 
 - **Three-Phase Diode Rectifier**  
 - **Buck DC–DC Converter** (duty-controlled)  
-- High-side MOSFET switching with **isolated gate drive**  
-
+- High-side MOSFET switching with **isolated gate drive**
+- 
 ## Project Scope
 
 - Topology comparison and final selection  
