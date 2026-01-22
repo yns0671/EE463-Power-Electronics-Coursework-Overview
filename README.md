@@ -23,6 +23,9 @@ This repository presents a curated overview of selected coursework from **EE463 
 ## Tools
 MATLAB/Simulink (Simscape Power Systems), analytical modeling, and experimental validation.
 
+> The repository includes detailed project documentation, simulation models, and hardware validation results.
+
 > Full homework and laboratory reports are not publicly shared; this repository provides a high-level technical overview.
 
 > Note: Homework and laboratory contents are summarized at a high level to respect academic integrity policies.
+
