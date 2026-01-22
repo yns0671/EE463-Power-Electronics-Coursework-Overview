@@ -20,7 +20,7 @@ This folder contains the final hardware project of **EE463 – Power Electronics
 - **Three-Phase Diode Rectifier**  
 - **Buck DC–DC Converter** (duty-controlled)  
 - High-side MOSFET switching with **isolated gate drive**
-- 
+  
 ## Project Scope
 
 - Topology comparison and final selection  
